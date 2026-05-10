@@ -10,13 +10,7 @@ Artificial Intelligence Engineer | NLP Engineer | RAG & LLM Systems Developer
   </a>
   <a href="https://www.linkedin.com/in/fareed-ali-a2457a287">
     <img src="https://img.shields.io/badge/LinkedIn-Fareed%20Ali-blue?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="YOUR_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/GitHub-Fareed-black?style=flat-square&logo=github" />
-  </a>
-  <a href="YOUR_KAGGLE_LINK">
-    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat-square&logo=kaggle" />
-  </a>
+  
 </p>
 
 ---
